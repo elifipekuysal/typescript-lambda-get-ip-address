@@ -1,0 +1,18 @@
+{
+  "name": "get-ip-address",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.35"
+  },
+  "dependencies": {
+    "public-ip": "^5.0.0"
+  }
+}
